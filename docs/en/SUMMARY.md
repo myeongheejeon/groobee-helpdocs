@@ -1,6 +1,6 @@
 # Table of contents
 
-* [젤라또 국문](README.md)
+* [ジェラートジャパン](README.md)
 
 ## Getting Started
 

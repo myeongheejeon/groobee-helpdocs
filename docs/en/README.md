@@ -18,11 +18,10 @@ layout:
     visible: true
 ---
 
-# 젤라또 국문
+# ジェラートジャパン
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
-
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+GitBook Starter Template へようこそ！ここでは、GitBook が提供する美しくインタラクティブなドキュメントの作成に役立つ素晴らしい機能の概要を紹介します。\
+GitBookの優れた機能のいくつかを実際に見てみましょう。そして、このテンプレートをあなただけのものにするためのヒントも見つかるでしょう。
 
 ### Jump right in
 
